@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "react-crud"
+		},
+		{
+			"path": "react-crud-final"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react-crud"
+	}
+}
